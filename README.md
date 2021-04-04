@@ -10,6 +10,7 @@ But ideal architecture or elegant and fast solution were'nt the target. So, here
 - I wanted to understand MVC pattern
 - I wanted some frogs and toads *-* (btw, "zhaba" is "frog" in russian)
 
-## Ending
+## Status
 
-So... I am waiting oh your help in MVC, project architecture, programming etc if you want. Thank u)
+- closed
+- The Ring is not so cool language  as I thought, sorry ._.
